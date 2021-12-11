@@ -1,5 +1,5 @@
 package JavaPackage;
 
-public class ClassJava {
+public class constrain {
 
 }
